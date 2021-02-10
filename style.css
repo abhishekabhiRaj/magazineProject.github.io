@@ -1,0 +1,168 @@
+.navbar{
+    height: 75px;
+}
+
+.Menu{
+    display: flex;
+    align-content: center;
+    background-color: #CE4A7EFF;
+    height: auto;
+   
+}
+.header-logo{
+    /* padding: 0% !important; */
+}
+/* #menu-item-3866 a:hover{
+    color: white !important; */
+}
+#header ul li a:hover{
+    color: white !important;
+}
+
+.text-logo{
+    /* background-color: aliceblue; */
+    /* width: 100px; */
+    /* padding: 0% !important; */
+    /* height: 20px; */
+    color: white !important;
+}
+.text-logo h1 a:hover{
+    color: white !important;
+}
+.text-logo h1 a{
+    color: white;
+}
+.h4{
+    margin-top: 8px !important;
+}
+
+.Title{
+    align-items: center;
+    display: flex;
+}
+
+.Title a{
+    /* line-height: 0% !important; */
+}
+
+.top-bar{
+    /* background-color: rebeccapurple !important; */
+    height: 0px !important;
+}
+
+
+
+
+.header-logo{
+    padding: 0% !important;
+}
+
+
+.sidebar-icon{
+    margin-right: 9px !important;
+    background-color: transparent !important;
+}
+
+@media only screen and (min-width: 64.063em)
+{
+    #primary {
+        padding: 1.2rem 0 0 0 !important;
+    }
+}
+.first{
+    background-color: #0a043c !important;
+}
+.first li a{
+    background-color: #0a043c!important;
+}
+
+.right-off-canvas-toggle{
+    background-color:  #0a043c !important;
+    border-radius: 2px;
+    width: 30px !important;
+    height: 30px !important;
+    display: grid !important;
+    align-items: center;
+}
+.Main-container{
+    
+    overflow: scroll ;
+    margin-top: 2px;
+}
+
+.Container{
+    background-color: #e0e0e0;
+    position: relative;
+    top: 5px;
+}
+
+.pagination{
+    background-color:#CE4A7EFF ;
+}
+
+.dark .top-bar-section .has-dropdown > a:after{
+    color: transparent !important;
+}
+
+aside{
+    background-color: #0a043c  !important;
+    transition: 0.2s;
+}
+
+#side-panel ul li{
+    border-bottom: 1px solid #CE4A7EFF;
+    letter-spacing: 1px;
+   
+}
+
+#side-panel ul li a{
+    font-size: 12px !important;
+    margin-left: 10px;
+}
+
+#side-panel ul li a:hover{
+    /* color: #CE4A7EFF !important; */
+    /* font-size: 15px !important; */
+    letter-spacing: 2px;
+}
+
+.isotope-item .post{
+    background-color: #faf9f9 !important;
+    box-shadow: 3px 2px 4px gray !important;
+}
+
+.post-53 .text-holder{
+    background-color:#CE4A7EFF  !important ;
+    color: white !important;
+}
+.post-53 .entry-title a:hover{
+    color: white !important;
+}
+
+.entry-date{
+    background-color: #CE4A7EFF !important;
+    color: white !important;
+}
+
+.entry-title a:hover{
+    color:#CE4A7EFF ;
+}
+
+.tabs dd.active a, .tabs dd a:hover, .tabs dd a:focus{
+    color:#CE4A7EFF !important ;
+    outline-color: rgb(255, 78, 107);
+}
+.tabs dd a{
+    display: flex !important;
+    justify-content: center !important;
+}
+.tabs dd a i{
+    padding-left: 29px !important;
+}
+
+h2 a{
+    color: #0a043c !important;
+}
+p{
+    color: #0f0757 !important;
+}
